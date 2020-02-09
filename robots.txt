@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiloochaed.danielleswank.com/sitemap.xml
